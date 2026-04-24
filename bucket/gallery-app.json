@@ -1,12 +1,12 @@
 {
-    "version": "20260423.8",
+    "version": "20260424.3",
     "description": "Photo organization app with face clustering, scene detection, and EXIF tagging",
     "homepage": "https://dev.azure.com/iddqd-hr/claudegallery",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://iddqd.blob.core.windows.net/gallery-releases/20260423.8/GalleryApp-Setup-1.0.0.exe?se=2027-04-23T19%3A18Z&sp=r&sv=2022-11-02&sr=b&sig=Mz5W%2BtKbQIjNuIGv8YeXXi3ZPlsFTVveS8DUUMTVODQ%3D",
-            "hash": "sha256:df5e07b74c5c6dbad1a68bb8d6e00a3fb962205c962244ee3fa2044c3a2bcead"
+            "url": "https://iddqd.blob.core.windows.net/gallery-releases/20260424.3/GalleryApp-Setup-1.0.0.exe?se=2027-04-24T13%3A34Z&sp=r&sv=2026-02-06&sr=b&sig=28DAo61fmE9Dnia5t%2BiDRxM9ZAHtkUvacSMYIlXEZaU%3D#/dl.exe",
+            "hash": "sha256:118d9854070149e1eade02feb2150281b4499a100e9dcf06f9130d93f032eda3"
         }
     },
     "innosetup": true,
